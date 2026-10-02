@@ -1,0 +1,9 @@
+ORIGINAL PROJECT FILE VERIFICATION
+
+All copied original project files were verified byte-for-byte against the source archive using SHA-256.
+No original notebook, WAV source file, generated WAV output, or NPZ key file was modified.
+
+Excluded only: .DS_Store files and .ipynb_checkpoints autosave folders.
+
+Original files copied and verified: 9
+Mismatches: 0
